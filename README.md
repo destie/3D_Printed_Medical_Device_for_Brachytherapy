@@ -12,7 +12,14 @@ Multiple materials were evaluated to match patient anatomy in density and Hounsf
 The results of this pilot study provide a potential methodology to develop future anatomical phantoms and alignment devices from CT scans of patient data. Additional modifications could make this a viable training tool for future residents and medical students to learn brachytherapy.
 
 This respository contains:
+**Display_DICOM_in_3D**
+Code to initially display the DICOM image in 3D in python.
 
+**Save_DICOM_Data_as_STL**
+Code to save the 3D arranged DICOM slices as an STL file.
+
+**DICOM_Device_Overlay**
+Code to combine 3D object and DICOM slices of patient to confirm alignment
 
 See full paper here: https://www.biorxiv.org/content/10.1101/2022.07.03.498548v1.full
 
